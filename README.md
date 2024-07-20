@@ -1,13 +1,4 @@
 
-  
-  ____      ____      _         ____      ___ 
- / ___|    /    \    | |       / _  \     | |
-| |       |  /\  |   | |      | | | |     | | 
-| |___    | |  | |   | |___   | |_| |     | | 
- \____|   |_|  |_|   |_____|   \___/      |_| 
-
-
-
 **gustavocaloi/gustavocaloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
