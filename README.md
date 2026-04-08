@@ -1,13 +1,39 @@
+# Luiz Caloi
 
-**gustavocaloi/gustavocaloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de software apaixonado por construir coisas úteis, aprender em público e transformar ideias em software confiável.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Gosto de trabalhar em produtos práticos, automações e soluções voltadas para desenvolvedores.
+- Curto código limpo, open source e ferramentas que tornam o trabalho do dia a dia mais simples.
+- Sou entusiasta de aviação, especialmente de dados ADS-B e rastreamento de voos.
+- Sou especializado em raspagem de dados e na criação de agentes de IA com plataformas como n8n e Node-RED.
+- Estou sempre buscando formas melhores de construir, documentar e entregar software.
+
+## Foco atual
+
+- Criar automações e agentes de IA voltados para eficiência corporativa
+- Desenvolver soluções com raspagem de dados, n8n e Node-RED
+- Contribuir com a comunidade por meio de aprendizado, colaboração e open source
+- Explorar dados ADS-B e projetos ligados à aviação como entusiasta
+
+## Tecnologias com que trabalho
+
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n)
+![Node-RED](https://img.shields.io/badge/Node--RED-111111?style=for-the-badge&logo=nodered)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+
+## Estatísticas no GitHub
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocaloi&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocaloi&layout=compact&theme=transparent&hide_border=true)
+
+## Onde me encontrar
+
+- GitHub: [@gustavocaloi](https://github.com/gustavocaloi)
+
+---
+
+> "Livros são jardins que podemos carregar."
