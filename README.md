@@ -24,16 +24,10 @@ Engenheiro de software apaixonado por construir coisas úteis, aprender em públ
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 
-## Estatísticas no GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocaloi&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocaloi&layout=compact&theme=transparent&hide_border=true)
-
 ## Onde me encontrar
 
 - GitHub: [@gustavocaloi](https://github.com/gustavocaloi)
 
 ---
 
-> "Livros são jardins que podemos carregar."
+> "MEMENTO MORI"
